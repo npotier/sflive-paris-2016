@@ -68,6 +68,8 @@ By ABBAS Hussein
 
 By Romain Neutron (https://twitter.com/romainneutron)
 
+Slides : https://speakerdeck.com/romain/securite-and-http-at-symfony-live-paris-2016
+
 ## Construire des applications cloud natives
 
 By Ori Pekelman (https://twitter.com/OriPekelman)
