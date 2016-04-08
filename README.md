@@ -47,6 +47,8 @@ By Alain Tiemblo
 
 By André Tapia
 
+Slides : http://blog.webnet.fr/wp-content/uploads/2016/04/2016-04-06-FINAL-Pr%C3%A9sentation-SymfonyLive-Doctrine2.pdf
+
 ## Refondre un moteur de règles avec l'expression language de symfony2
 
 By ABBAS Hussein
