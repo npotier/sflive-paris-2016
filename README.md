@@ -14,9 +14,14 @@ By jeremyFreeAgent (https://twitter.com/jeremyFreeAgent)
 
 By Vincent CHALAMON (https://twitter.com/vincentchalamon)
 
+Slides : http://fr.slideshare.net/VincentCHALAMON/r2d2-to-bb8-60662855
+Joind : https://joind.in/event/symfonylive-paris-2016/r2d2-to-bb8
+
 ## PHP Meminfo ou la chasse aux memory leak
 
 By Benoit Jacquemont (https://twitter.com/BJacquemont)
+
+Slides : https://speakerdeck.com/bitone/hunting-down-memory-leaks-with-php-meminfo
 
 ## Retour d'expérience Reactive Architecture et Microservices : Comment découpler mes applications ?
 
