@@ -23,6 +23,8 @@ By Benoit Jacquemont (https://twitter.com/BJacquemont)
 
 By Fabien Meurillon (https://twitter.com/FabienM)
 
+Slides : http://fabien.meurillon.org/sfLive2016/#1
+
 ## Le reveil du Workflow
 
 By Grégoire Pineau
