@@ -19,6 +19,8 @@ By Vincent CHALAMON (https://twitter.com/vincentchalamon)
 
 By Benoit Jacquemont (https://twitter.com/BJacquemont)
 
+Slides : https://speakerdeck.com/bitone/hunting-down-memory-leaks-with-php-meminfo
+
 ## Retour d'expérience Reactive Architecture et Microservices : Comment découpler mes applications ?
 
 By Fabien Meurillon (https://twitter.com/FabienM)
