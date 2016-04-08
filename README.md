@@ -5,31 +5,36 @@ Liens vers les conférences présentées lors sur Symfony Live Paris 2016 : http
 
 ## Monolith Repositories with Git
 
-By Fabien Potencier
+By Fabien Potencier (https://twitter.com/fabpot) 
 
 ## Guard dans la vraie vie
 
-By jeremyFreeAgent
+By jeremyFreeAgent (https://twitter.com/jeremyFreeAgent)
 
 ## R2D2 to BB8
 
-By Vincent CHALAMON
+By Vincent CHALAMON (https://twitter.com/vincentchalamon)
 
 ## PHP Meminfo ou la chasse aux memory leak
 
-By Benoit Jacquemont
+By Benoit Jacquemont (https://twitter.com/BJacquemont)
 
 ## Retour d'expérience Reactive Architecture et Microservices : Comment découpler mes applications ?
 
-By Fabien Meurillon
+By Fabien Meurillon (https://twitter.com/FabienM)
 
 ## Le reveil du Workflow
 
 By Grégoire Pineau
 
+Slides : https://speakerdeck.com/lyrixx/le-reveil-du-workflow
+
 ## ElasticSearch chez BlaBlaCar
 
-By Olivier Dolbeau
+By Olivier Dolbeau (https://twitter.com/odolbeau)
+
+Slides : https://speakerdeck.com/odolbeau/elasticsearch-chez-blablacar
+
 
 ## Performance au quotidien dans un environnement Symfony
 
@@ -37,7 +42,7 @@ By Xavier Leune
 
 ## PSR-6 & Symfony Cache : de la perf en standard
 
-By Nicolas Grekas
+By Nicolas Grekas (https://twitter.com/nicolasgrekas)
 
 ## Sécurité web: pirater pour mieux protéger
 
@@ -55,8 +60,8 @@ By ABBAS Hussein
 
 ## Sécurité et HTTP
 
-By Romain Neutron
+By Romain Neutron (https://twitter.com/romainneutron)
 
 ## Construire des applications cloud natives
 
-By Ori Pekelman
+By Ori Pekelman (https://twitter.com/OriPekelman)
