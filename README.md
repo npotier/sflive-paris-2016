@@ -38,7 +38,9 @@ Slides : https://speakerdeck.com/odolbeau/elasticsearch-chez-blablacar
 
 ## Performance au quotidien dans un environnement Symfony
 
-By Xavier Leune
+By Xavier Leune (https://twitter.com/beoneself)
+
+Slides : http://fr.slideshare.net/xavierleune/performance-au-quotidien-dans-un-environnement-symfony
 
 ## PSR-6 & Symfony Cache : de la perf en standard
 
