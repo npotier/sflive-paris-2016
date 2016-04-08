@@ -2,7 +2,6 @@
 
 Liens vers les conférences présentées lors sur Symfony Live Paris 2016 : http://paris2016.live.symfony.com/speakers
 
-
 ## Monolith Repositories with Git
 
 By Fabien Potencier (https://twitter.com/fabpot) 
@@ -32,6 +31,7 @@ Slides : http://fabien.meurillon.org/sfLive2016/#1
 By Grégoire Pineau
 
 Slides : https://speakerdeck.com/lyrixx/le-reveil-du-workflow
+Démo app : https://github.com/lyrixx/SFLive-Paris2016-Workflow
 
 ## ElasticSearch chez BlaBlaCar
 
@@ -39,12 +39,12 @@ By Olivier Dolbeau (https://twitter.com/odolbeau)
 
 Slides : https://speakerdeck.com/odolbeau/elasticsearch-chez-blablacar
 
-
 ## Performance au quotidien dans un environnement Symfony
 
 By Xavier Leune (https://twitter.com/beoneself)
 
 Slides : http://fr.slideshare.net/xavierleune/performance-au-quotidien-dans-un-environnement-symfony
+Ting : http://tech.ccmbg.com/ting
 
 ## PSR-6 & Symfony Cache : de la perf en standard
 
@@ -52,7 +52,9 @@ By Nicolas Grekas (https://twitter.com/nicolasgrekas)
 
 ## Sécurité web: pirater pour mieux protéger
 
-By Alain Tiemblo
+By Alain Tiemblo (https://twitter.com/ninsuo)
+
+Slides : https://github.com/ninsuo/slides
 
 ## Aller plus loin avec Doctrine2
 
@@ -67,6 +69,8 @@ By ABBAS Hussein
 ## Sécurité et HTTP
 
 By Romain Neutron (https://twitter.com/romainneutron)
+
+Slides : https://speakerdeck.com/romain/securite-and-http-at-symfony-live-paris-2016
 
 ## Construire des applications cloud natives
 
