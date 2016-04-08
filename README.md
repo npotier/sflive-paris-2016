@@ -28,7 +28,7 @@ Slides : http://fabien.meurillon.org/sfLive2016/#1
 
 By Grégoire Pineau
 
-Slides : https://speakerdeck.com/lyrixx/le-reveil-du-workflow
+Slides : https://speakerdeck.com/lyrixx/le-reveil-du-workflow  
 Démo app : https://github.com/lyrixx/SFLive-Paris2016-Workflow
 
 ## ElasticSearch chez BlaBlaCar
@@ -41,7 +41,7 @@ Slides : https://speakerdeck.com/odolbeau/elasticsearch-chez-blablacar
 
 By Xavier Leune (https://twitter.com/beoneself)
 
-Slides : http://fr.slideshare.net/xavierleune/performance-au-quotidien-dans-un-environnement-symfony
+Slides : http://fr.slideshare.net/xavierleune/performance-au-quotidien-dans-un-environnement-symfony  
 Ting : http://tech.ccmbg.com/ting
 
 ## PSR-6 & Symfony Cache : de la perf en standard
