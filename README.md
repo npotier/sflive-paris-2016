@@ -6,6 +6,10 @@ Liens vers les conférences présentées lors sur Symfony Live Paris 2016 : http
 
 By Fabien Potencier (https://twitter.com/fabpot) 
 
+Slides (dotScale version) : https://speakerdeck.com/fabpot/a-monorepo-vs-manyrepos
+
+Video : https://www.youtube.com/watch?v=VBWVNIUGKW0
+
 ## Guard dans la vraie vie
 
 By jeremyFreeAgent (https://twitter.com/jeremyFreeAgent)
