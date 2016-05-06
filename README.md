@@ -6,8 +6,7 @@ Liens vers les conférences présentées lors sur Symfony Live Paris 2016 : http
 
 By Fabien Potencier (https://twitter.com/fabpot) 
 
-Slides (dotScale version) : https://speakerdeck.com/fabpot/a-monorepo-vs-manyrepos
-
+Slides (dotScale version) : https://speakerdeck.com/fabpot/a-monorepo-vs-manyrepos  
 Video : https://www.youtube.com/watch?v=VBWVNIUGKW0
 
 ## Guard dans la vraie vie
@@ -74,6 +73,9 @@ Slides : http://blog.webnet.fr/wp-content/uploads/2016/04/2016-04-06-FINAL-Pr%C3
 ## Refondre un moteur de règles avec l'expression language de symfony2
 
 By ABBAS Hussein
+
+Slides : https://speakerdeck.com/husseinab/expression-language-symfony-live  
+Joind : https://joind.in/event/symfonylive-paris-2016/refondre-un-moteur-de-rgles-avec-lexpression-language-de-symfony2
 
 ## Sécurité et HTTP
 
