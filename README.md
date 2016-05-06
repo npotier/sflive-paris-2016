@@ -20,7 +20,7 @@ Slides : https://speakerdeck.com/jeremyfreeagent/guard-dans-la-vraie-vie
 
 By Vincent CHALAMON (https://twitter.com/vincentchalamon)
 
-Slides : http://fr.slideshare.net/VincentCHALAMON/r2d2-to-bb8-60662855
+Slides : http://fr.slideshare.net/VincentCHALAMON/r2d2-to-bb8-60662855  
 Joind : https://joind.in/event/symfonylive-paris-2016/r2d2-to-bb8
 
 ## PHP Meminfo ou la chasse aux memory leak
@@ -39,7 +39,7 @@ Slides : http://fabien.meurillon.org/sfLive2016/#1
 
 By Grégoire Pineau
 
-Slides : https://speakerdeck.com/lyrixx/le-reveil-du-workflow
+Slides : https://speakerdeck.com/lyrixx/le-reveil-du-workflow  
 Démo app : https://github.com/lyrixx/SFLive-Paris2016-Workflow
 
 ## ElasticSearch chez BlaBlaCar
@@ -52,7 +52,7 @@ Slides : https://speakerdeck.com/odolbeau/elasticsearch-chez-blablacar
 
 By Xavier Leune (https://twitter.com/beoneself)
 
-Slides : http://fr.slideshare.net/xavierleune/performance-au-quotidien-dans-un-environnement-symfony
+Slides : http://fr.slideshare.net/xavierleune/performance-au-quotidien-dans-un-environnement-symfony  
 Ting : http://tech.ccmbg.com/ting
 
 ## PSR-6 & Symfony Cache : de la perf en standard
