@@ -4,7 +4,7 @@ Liens vers les conférences présentées lors sur Symfony Live Paris 2016 : http
 
 ## Monolith Repositories with Git
 
-By Fabien Potencier (https://twitter.com/fabpot) 
+By Fabien Potencier (https://twitter.com/fabpot)
 
 Slides (dotScale version) : https://speakerdeck.com/fabpot/a-monorepo-vs-manyrepos
 
@@ -20,7 +20,8 @@ Slides : https://speakerdeck.com/jeremyfreeagent/guard-dans-la-vraie-vie
 
 By Vincent CHALAMON (https://twitter.com/vincentchalamon)
 
-Slides : http://fr.slideshare.net/VincentCHALAMON/r2d2-to-bb8-60662855  
+Slides : http://fr.slideshare.net/VincentCHALAMON/r2d2-to-bb8-60662855
+
 Joind : https://joind.in/event/symfonylive-paris-2016/r2d2-to-bb8
 
 ## PHP Meminfo ou la chasse aux memory leak
@@ -39,7 +40,8 @@ Slides : http://fabien.meurillon.org/sfLive2016/#1
 
 By Grégoire Pineau
 
-Slides : https://speakerdeck.com/lyrixx/le-reveil-du-workflow  
+Slides : https://speakerdeck.com/lyrixx/le-reveil-du-workflow
+
 Démo app : https://github.com/lyrixx/SFLive-Paris2016-Workflow
 
 ## ElasticSearch chez BlaBlaCar
@@ -52,7 +54,8 @@ Slides : https://speakerdeck.com/odolbeau/elasticsearch-chez-blablacar
 
 By Xavier Leune (https://twitter.com/beoneself)
 
-Slides : http://fr.slideshare.net/xavierleune/performance-au-quotidien-dans-un-environnement-symfony  
+Slides : http://fr.slideshare.net/xavierleune/performance-au-quotidien-dans-un-environnement-symfony
+
 Ting : http://tech.ccmbg.com/ting
 
 ## PSR-6 & Symfony Cache : de la perf en standard
@@ -74,6 +77,10 @@ Slides : http://blog.webnet.fr/wp-content/uploads/2016/04/2016-04-06-FINAL-Pr%C3
 ## Refondre un moteur de règles avec l'expression language de symfony2
 
 By ABBAS Hussein
+
+Slides : https://speakerdeck.com/husseinab/expression-language-symfony-live
+
+Joind : https://joind.in/event/symfonylive-paris-2016/refondre-un-moteur-de-rgles-avec-lexpression-language-de-symfony2
 
 ## Sécurité et HTTP
 
