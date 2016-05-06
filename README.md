@@ -14,6 +14,8 @@ Video : https://www.youtube.com/watch?v=VBWVNIUGKW0
 
 By jeremyFreeAgent (https://twitter.com/jeremyFreeAgent)
 
+Slides : https://speakerdeck.com/jeremyfreeagent/guard-dans-la-vraie-vie
+
 ## R2D2 to BB8
 
 By Vincent CHALAMON (https://twitter.com/vincentchalamon)
