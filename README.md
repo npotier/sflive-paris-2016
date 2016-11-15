@@ -58,6 +58,8 @@ Ting : http://tech.ccmbg.com/ting
 
 By Nicolas Grekas (https://twitter.com/nicolasgrekas)
 
+Slides : https://speakerdeck.com/nicolasgrekas/psr-6-and-symfony-cache-de-la-perf-en-standard
+
 ## Sécurité web: pirater pour mieux protéger
 
 By Alain Tiemblo (https://twitter.com/ninsuo)
