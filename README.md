@@ -86,3 +86,5 @@ Slides : https://speakerdeck.com/romain/securite-and-http-at-symfony-live-paris-
 ## Construire des applications cloud natives
 
 By Ori Pekelman (https://twitter.com/OriPekelman)
+
+Slides : http://www.slideshare.net/OriPekelman/construire-des-applications-cloud-natives-symfonylive-paris-2016
